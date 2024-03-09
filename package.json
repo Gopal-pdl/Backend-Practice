@@ -1,0 +1,21 @@
+{
+  "name": "backendpractice",
+  "version": "1.0.0",
+  "description": "learning backend from chai aur code :)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "backend",
+    "youtubeclone"
+  ],
+  "author": "gopal poudel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  }
+}
